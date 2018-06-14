@@ -1,0 +1,60 @@
+1
+inz
+Praca przybli¿a u¿ycie C# w tworzeniu gier
+Kamil
+Faliäski
+2018
+Halfar
+Roman Micha³
+c++; c#
+Wykorzystanie C# zamiast C++ w tworzeniu gier komputerowych
+2
+lic
+C#
+Karol
+Kontracy
+2021
+Halfar
+Piotr Kacper
+c#;cPP
+fdsfds fdsfdsf dsf sd
+3
+mgr
+P# nowy odpowiednik C#
+Piotr
+Halfar
+2018
+Kasperczyk
+Kacper
+c#; p#; 2018
+Spos¢b na szybsze i wydajniejsze tworzenie oprogramowania ni¾ C#
+4
+inz
+programowanie w cpp a c#
+Kamil
+Faliäski
+2020
+Siminski
+Roman
+cpp; c#
+Nie wymaga streszczenia
+5
+lic
+Grakika wektorowoimpulsowa
+Dominik
+Mirek
+2010
+Karol
+Goral
+grafika
+nie ma co streszczac
+6
+lic
+Tworzenie gier na androida z wykorzystaniem sztucznej inteligencji
+Kamil
+Faliäski
+2020
+Siminski
+Roman 
+android; c#; java; gra
+brak
