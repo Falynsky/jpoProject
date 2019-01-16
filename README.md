@@ -1,4 +1,5 @@
 # jpoProject
-2nd semester programming's project
 
-Library of diploma theses
+Author: Kamil Faliński
+
+Destinaton: Library of diploma theses, 2nd-semester programming's project.
